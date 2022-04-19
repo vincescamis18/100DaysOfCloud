@@ -3,6 +3,8 @@
 
 # New post title here
 
+https://docs.microsoft.com/en-us/learn/browse/?products=azure%2Csql-server%2Cwindows-server&terms=monitoring
+
 https://docs.microsoft.com/en-us/azure/devops/repos/git/gitworkflow?view=azure-devops
 
 https://fast.wistia.net/embed/iframe/qrqfj371b6
