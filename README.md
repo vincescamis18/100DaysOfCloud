@@ -25,22 +25,22 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [✍️ Link to your Twitter](https://twitter.com/username)
 - [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
 
-## Stepping out the door
+## Stepping out the door - Azure Project Ideas
 
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 2 > [HOST A STATIC SITE WITH AZURE STORAGE](Journey/002/Readme.md)
+- [ ] ☁️ 3 > [LAUNCH AZURE RESOURCES USING TERRAFORM](Journey/003/Readme.md)
+- [ ] ☁️ 4 > [CREATE A KUBERNETES CLUSTER WITH AKS](Journey/004/Readme.md)
+- [ ] ☁️ 5 > [DEPLOY MICROSOFT AZURE WITH ANSIBLE](Journey/005/Readme.md)
+- [ ] ☁️ 6 > [STAND UP AN AZURE CODE REPO](Journey/006/Readme.md)
+- [ ] ☁️ 7 > [SETUP PERFORMANCE MONITORING WITH AZURE MONITORING](Journey/007/Readme.md)
+- [ ] ☁️ 8 > [CREATE SERVERLESS WORKLOAD WITH AZURE FUNCTIONS](Journey/008/Readme.md)
+- [ ] ☁️ 9 > [BUILD A ROBUST DELTA LAKE IN AZURE](Journey/009/Readme.md)
+- [ ] ☁️ 10 > [START YOUR MLOps JOURNEY WITH AZURE ML AND PYTHON](Journey/010/Readme.md)
+- [ ] ☁️ 11 > [TURN A RASPBERRY PI INTO AN IOT DEVICE WITH AZURE IOT HUB](Journey/011/Readme.md)
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
