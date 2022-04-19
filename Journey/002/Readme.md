@@ -3,6 +3,8 @@
 
 # New post title here
 
+https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website
+
 ## Introduction
 
 ✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
