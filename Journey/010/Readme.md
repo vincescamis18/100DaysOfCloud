@@ -3,6 +3,8 @@
 
 # New post title here
 
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-automlstep-in-pipelines
+
 ## Introduction
 
 ✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
