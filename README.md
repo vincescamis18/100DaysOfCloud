@@ -41,7 +41,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Walking down the road
 
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
+- [ ] ☁️ 12 > [Azure Migrate Hands-on Lab](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
