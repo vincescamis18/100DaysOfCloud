@@ -3,6 +3,9 @@
 
 # New post title here
 
+https://fast.wistia.net/embed/iframe/qrqfj371b6
+https://docs.ansible.com/ansible/latest/scenario_guides/guide_azure.html
+
 ## Introduction
 
 ✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
