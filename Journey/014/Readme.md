@@ -3,6 +3,8 @@
 
 # New post title here
 
+https://www.azuredevopslabs.com/labs/vstsextend/terraform/
+
 ## Introduction
 
 ✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
