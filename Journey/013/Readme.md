@@ -3,6 +3,8 @@
 
 # New post title here
 
+https://adamtheautomator.com/how-to-set-up-an-azure-file-share-with-on-prem-ad-authentication/
+
 ## Introduction
 
 ✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
