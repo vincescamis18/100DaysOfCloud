@@ -43,7 +43,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 - [ ] ☁️ 12 > [Azure Migrate Hands-on Lab](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [Set Up an Azure File Share with On-Prem AD Authentication](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
+- [ ] ☁️ 14 > [Automating infrastructure deployments in the Cloud with Terraform and Azure Pipelines](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
