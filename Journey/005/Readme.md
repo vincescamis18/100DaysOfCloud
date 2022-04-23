@@ -3,8 +3,6 @@
 
 # New post title here
 
-https://docs.microsoft.com/en-us/azure/devops/repos/git/gitworkflow?view=azure-devops
-
 https://fast.wistia.net/embed/iframe/qrqfj371b6
 https://docs.ansible.com/ansible/latest/scenario_guides/guide_azure.html
 
